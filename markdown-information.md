@@ -40,5 +40,5 @@ As Kayne West said:
 >the Present is our past.    
 
 ###### Inline code
-* I Think you schould use an --
-\'<addr>\' element here instead.
+* I Think you schould use an  
+\'\<addr\>\' element here instead.
