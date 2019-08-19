@@ -25,19 +25,19 @@
     1. Item 3b
 
 ###### Images
-* ![GitHub Logo] (/images/logo.png)
-  Format: ![Alt Text](URL)
+* \!\[GitHub Logo\] \(/images/logo\.png\)
+  Format: \!\[Alt Text\]\(URL\)
   
 ####### Links
 * http://gitHub.com \= automatic
-* [GitHub](http://gitHub.com)
+* \[GitHub\]\(http://gitHub.com\)
 
 
 ######## Blockquotes
 As Kayne West said:
-  > We're living the future so
-  > The Present is our past.
+  *> We're living the future so
+  *> The Present is our past.
 
 ######## Inline code
 * I Think you schould use an 
-  \'<addr>\' element here instead.
+ *\'<addr>\' element here instead.
