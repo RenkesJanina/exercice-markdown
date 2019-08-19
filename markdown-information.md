@@ -11,7 +11,7 @@ Markdowns
   * \_...\_
   
 ### H1....
-  * to make headers just put \# infront of the desired H tag. For H1 it is \#, for H6 it's \#\#\#\#\#\# and so on....
+  * to make headers just put \# infront of the desired H tag. For H1 it is \#, for H6 it's \#\#\#\#\#\# , 6 is limit 
   
 #### Unorderd list
   * Item 1
