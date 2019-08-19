@@ -1,10 +1,10 @@
-# Markdowns
+Markdowns
 
-## Italic
+# Italic
   * \*\*...\*\*
   * \_\_...\_\_
 
-### Bold
+## Bold
   * \*...\*
   * \_...\_
   
@@ -28,16 +28,16 @@
 * \!\[GitHub Logo\] \(/images/logo\.png\)
   Format: \!\[Alt Text\]\(URL\)
   
-####### Links
+###### Links
 * http://gitHub.com \= automatic
 * \[GitHub\]\(http://gitHub.com\)
 
 
-######## Blockquotes
+###### Blockquotes
 As Kayne West said:
-  *> We're living the future so
-  *> The Present is our past.
+>We're living the future so
+>the Present is our past.    
 
-######## Inline code
-* I Think you schould use an 
- *\'<addr>\' element here instead.
+###### Inline code
+* I Think you schould use an
+>\'<addr>\' element here instead.
