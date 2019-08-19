@@ -36,8 +36,9 @@ Markdowns
 ###### Blockquotes
 As Kayne West said:
 >We're living the future so
+>
 >the Present is our past.    
 
 ###### Inline code
-* I Think you schould use an
->\'<addr>\' element here instead.
+* I Think you schould use an --
+\'<addr>\' element here instead.
