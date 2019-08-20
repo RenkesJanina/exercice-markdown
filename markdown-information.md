@@ -39,10 +39,16 @@ Markdowns
 As Kayne West said:
 >We're living the future so
 >
->the Present is our past.    
+>the Present is our past.  
+
+
+To creat this kind of text just put hit twice space then enter, after just in front > this and one blanck line with > to continue a new line.
 
 ###### Inline code
 * I Think you schould use an  
-\'\<addr\>\' element here instead.
+\'\<addr\>\' element here instead.  
+
+
+to split text into two lines just hit at the end of the line  two times space and then enter to continue. Also working on lists and texts.
 
 </span>
