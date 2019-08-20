@@ -49,6 +49,8 @@ To creat this kind of text just put hit twice space then enter, after just in fr
 \'\<addr\>\' element here instead.  
 
 
-to split text into two lines just hit at the end of the line  two times space and then enter to continue. Also working on lists and texts.
+to split text into two lines just hit at the end of the line  two times space and then enter to continue. Also working on lists and texts.  
+
+![examples](https://github.com/RenkesJanina/exercice-markdown/blob/master/experiences.md)  
 
 </span>
